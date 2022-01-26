@@ -23,40 +23,40 @@
 - [x] Using the  React Developer Tools (Preferrably a video)
 ### Week 3 
 - [x] List and Keys 
-- [ ] Composition vs Inheritance 
+- [x] Composition vs Inheritance 
 - [x] Basic Hooks : a) useState b) useEffect 
 - [x] Some more Hooks (As per recommended by Mentor) 
  
 ### Week 4 
 - [x] Conditional rendering 
-- [ ] State in React-Declarative and Imperative programing 
+- [x] State in React-Declarative and Imperative programing 
  
  ### Week 5 
-- [ ] Common hooks(useRef,useContent etc) 
-- [ ] Refs 
-- [ ] Writiing your own hooks 
-- [ ] High order Components 
-- [ ] Fiber Architecture 
+- [x] Common hooks(useRef,useContent etc) 
+- [x] Refs 
+- [x] Writiing your own hooks 
+- [x] High order Components 
+- [x] Fiber Architecture 
  ### Week 6 
-- [ ] Multi page react app (React Router)
-- [ ] Good Coding Practices
-- [ ] Context 
-- [ ] Render Props 
+- [x] Multi page react app (React Router)
+- [x] Good Coding Practices
+- [x] Context 
+- [x] Render Props 
  
 ### Week 7 
-- [ ] state management in react 
-- [ ] importance of state managment in react 
-- [ ] Redux 
+- [x] state management in react 
+- [x] importance of state managment in react 
+- [x] Redux 
  
 ### Week 8 
-- [ ] REST API Calls 
-- [ ] Using built-in Fetch API
-- [ ] Axios  
-- [ ] Unfetch 
-- [ ] Superagent 
+- [x] REST API Calls 
+- [x] Using built-in Fetch API
+- [x] Axios  
+- [x] Unfetch 
+- [x] Superagent 
  
 ### Week-9 
-- [ ] Testing 
-- [ ] Jest 
-- [ ] React icons
-- [ ] React Testing Library
+- [x] Testing 
+- [x] Jest 
+- [x] React icons
+- [x] React Testing Library
